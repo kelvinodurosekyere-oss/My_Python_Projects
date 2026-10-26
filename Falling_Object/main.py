@@ -7,7 +7,7 @@ PLAYER_STEP = 20
 
 screen = Screen()
 screen.bgcolor("black")
-screen.title("My falling star game")
+screen.title("My falling object game")
 screen.setup(width=SCREEN_WIDTH, height=SCREEN_HEIGHT)
 screen.tracer(0)
 
